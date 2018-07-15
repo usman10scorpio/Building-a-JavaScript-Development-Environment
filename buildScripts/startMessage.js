@@ -5,6 +5,4 @@
 import chalk from 'chalk';
 
 
-console.log('------------------------------------');
-console.log(chalk.green('starting ap in dev mode ....'));
-console.log('------------------------------------');
+console.log(chalk.green('starting ap in dev mode ....')); // eslint-disable-line no-console
