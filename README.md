@@ -1,2 +1,3 @@
 # Building-a-JavaScript-Development-Environment
-Plural sight course { Starting a new JavaScript project from scratch is overwhelming. This course provides a playbook outlining the key decisions you need to make. Build a robust development environment that handles bundling, linting, transpiling, testing, and much more.
+
+The repository is a pratcice of the course building a JS development enviroment by cory house. Comprehensive overview of (choosing editors and their configuration , package management (npm) , development server (webpack) , work-in-progress (localTunnel) , Automation (Npm scripts) , Transpiling (babel) , Bundling (Webpack) , Debug (Sourcemap) , Linting (Eslint)).
